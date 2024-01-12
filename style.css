@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #c9ccd2;
+  background: linear-gradient(90deg, #c9ccd2 0%, #b7adad 70%, #b6abac 100%);
+}
+
+li {
+  padding: 1rem 1.5rem;
+  opacity: 0.9;
+}
+a {
+  opacity: 0.5;
+}
+
+.select {
+  padding: 1rem 1.1rem;
+  border-radius: 10px;
+  border: 1px solid #fff;
+  background: #dadbdd;
+}
+
+.line {
+  height: 1px;
+  background: #e3e3e3;
+}
